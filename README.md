@@ -1,2 +1,2 @@
-# sistema-bancario
-Sistema bancário em C com sistema de login, conta bancária com depósito, saque e saldo.
+# coffee_shop
+Projeto em desenvolvimento sobre jogo de café.
