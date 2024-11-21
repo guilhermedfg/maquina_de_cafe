@@ -1,2 +1,3 @@
-# coffee_shop
-Projeto em desenvolvimento sobre jogo de café.
+# máquina de café
+# Projeto em desenvolvimento, um jogo muito simples em c.
+# ☕
